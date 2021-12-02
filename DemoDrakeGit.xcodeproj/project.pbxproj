@@ -12,6 +12,7 @@
 		303DF72A27590314008E33B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 303DF72927590314008E33B5 /* Assets.xcassets */; };
 		303DF72D27590314008E33B5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 303DF72C27590314008E33B5 /* Preview Assets.xcassets */; };
 		303DF73427590391008E33B5 /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303DF73327590391008E33B5 /* Album.swift */; };
+		3C0862792759084400CA9CB0 /* AlbumViewDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C0862782759084400CA9CB0 /* AlbumViewDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		303DF72927590314008E33B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		303DF72C27590314008E33B5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		303DF73327590391008E33B5 /* Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
+		3C0862782759084400CA9CB0 /* AlbumViewDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumViewDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				303DF72527590312008E33B5 /* DemoDrakeGitApp.swift */,
 				303DF72727590312008E33B5 /* ContentView.swift */,
 				303DF73327590391008E33B5 /* Album.swift */,
+				3C0862782759084400CA9CB0 /* AlbumViewDetail.swift */,
 				303DF72927590314008E33B5 /* Assets.xcassets */,
 				303DF72B27590314008E33B5 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				303DF72827590312008E33B5 /* ContentView.swift in Sources */,
 				303DF72627590312008E33B5 /* DemoDrakeGitApp.swift in Sources */,
 				303DF73427590391008E33B5 /* Album.swift in Sources */,
+				3C0862792759084400CA9CB0 /* AlbumViewDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
